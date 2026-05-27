@@ -1,16 +1,77 @@
-# React + Vite
+# Movie Database Mini Application
+A responsive React-based movie search application that allows users to browse and search movies dynamically using interactive UI components and conditional rendering.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+- Dynamic movie search functionality
+- Real-time filtering based on user input
+- Responsive and clean user interface
+- Conditional rendering for different states
+- Reusable React components
+- Beginner-friendly React project structure
 
-Currently, two official plugins are available:
+## 🛠️ Technologies Used
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📂 Project Structure
+```bash
+Movie-Database-Mini-Application/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+└── README.md
+```
 
-## React Compiler
+## ▶️ Getting Started
+### Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/react-mini-projects.git
+```
+### Navigate to the project
+```bash
+cd Movie-Database-Mini-Application
+```
+### Install dependencies
+```bash
+npm install
+```
+### Start the development server
+```bash
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Live Demo
+https://movie-application-eight-delta.vercel.app/
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1414" height="764" alt="image" src="https://github.com/user-attachments/assets/e0286f87-ac92-42b7-b700-2fb08b7619ee" />
+
+
+## 📖 Learning Outcomes
+
+This project helped in understanding:
+
+- React state management
+- Search and filtering logic
+- Conditional rendering
+- Component-based architecture
+- Dynamic UI updates
+- Handling user input in React
+
+## 👩‍💻 Author
+
+**Sravya Parimala**
+
+---
+
+Made as part of my React learning journey.
