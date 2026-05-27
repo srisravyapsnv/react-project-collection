@@ -1,16 +1,69 @@
-# React + Vite
+# Portfolio Card Application
+A simple and responsive React application that displays stylish portfolio cards with user information, profile images, social links, and modern UI components.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Responsive portfolio card design
+- Clean and modern user interface
+- Built using React components
+- Reusable card structure
+- Custom styling with CSS
+- Beginner-friendly React project
 
-Currently, two official plugins are available:
+## Technologies Used
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Project Structure
+```bash
+Portfolio-Card-Application/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+└── README.md
+```
 
-## React Compiler
+## Getting Started
+### Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/react-mini-projects.git
+```
+### Navigate to the project
+```bash
+cd Portfolio-Card-Application
+```
+### Install dependencies
+```bash
+npm install
+```
+### Start the development server
+```bash
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Live Demo
+https://react-project-collection-khaki.vercel.app/
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1421" height="770" alt="image" src="https://github.com/user-attachments/assets/7c406669-ebf2-4b19-8eb8-f8090a9e109c" />
+
+
+## 📖 Learning Outcomes
+
+This project helped in understanding:
+
+- React component structure
+- Props and reusable UI
+- State management basics
+- Styling React applications
+- Project organization
+
+Made as part of my React learning journey.
